@@ -40,36 +40,49 @@
 <img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
-<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+10) Which are the top 5 most popular museum? (Popularity is defined based on most no of paintings in a museum)<br/>
+<img src="https://i.imgur.com/jQNyJhj.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
-<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+11) Who are the top 5 most popular artist? (Popularity is defined based on most no of paintings done by an artist)<br/>
+<img src="https://i.imgur.com/b0KVeTp.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
-<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+12) Display the 3 least popular canva sizes
+<br/>
+<img src="https://i.imgur.com/CkUQYGu.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
-<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+13) Which museum is open for the longest during a day. Dispay museum name, state and hours open and which day?<br/>
+<img src="https://i.imgur.com/3BkpMgi.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
-<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+14) Which museum has the most no of most popular painting style?<br/>
+<img src="https://i.imgur.com/RcL43kU.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
-<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+15) Identify the artists whose paintings are displayed in multiple countries<br/>
+<img src="https://i.imgur.com/YduaiL6.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
-<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+16) Display the country and the city with most no of museums. Output 2 seperate columns to mention the city and country. If there are multiple value, seperate them with comma.<br/>
+<img src="https://i.imgur.com/3k5stEz.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
-<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+17) Identify the artist and the museum where the most expensive and least expensive painting is placed. Display the artist name, sale_price, painting name, museum name, museum city and canvas label<br/>
+<img src="https://i.imgur.com/LxwNhWT.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+18) Which country has the 5th highest no of paintings?<br/>
+<img src="https://i.imgur.com/PiyH6yF.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+19) Which are the 3 most popular and 3 least popular painting styles?<br/>
+<img src="https://i.imgur.com/EgmgVDn.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+20) Which artist has the most no of Portraits paintings outside USA?. Display artist name, no of paintings and the artist nationality.<br/>
+<img src="https://i.imgur.com/a7AcCsZ.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
@@ -86,28 +99,19 @@
 
 
 
-11) How many museums are open every single day?
-
-12) Which are the top 5 most popular museum? (Popularity is defined based on most no of paintings in a museum)
-
-13) Who are the top 5 most popular artist? (Popularity is defined based on most no of paintings done by an artist)
-
-14) Display the 3 least popular canva sizes
-
-15) Which museum is open for the longest during a day. Dispay museum name, state and hours open and which day?
-
-16) Which museum has the most no of most popular painting style?
-
-17) Identify the artists whose paintings are displayed in multiple countries
-
-18) Display the country and the city with most no of museums. Output 2 seperate columns to mention the city and country. If there are multiple value, seperate them with comma.
-
-19) Identify the artist and the museum where the most expensive and least expensive painting is placed. Display the artist name, sale_price, painting name, museum name, museum city and canvas label
-
-20) Which country has the 5th highest no of paintings?
-
-21) Which are the 3 most popular and 3 least popular painting styles?
-
-22) Which artist has the most no of Portraits paintings outside USA?. Display artist name, no of paintings and the artist nationality.
 
 
+
+12) 
+13)
+
+14) 
+15) 
+16) 
+17) 
+18) 
+
+19)
+20) 
+21) 
+22)
