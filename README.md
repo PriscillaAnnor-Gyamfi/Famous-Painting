@@ -12,33 +12,79 @@
 <img src="https://i.imgur.com/HLpa98h.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Market Segments: <br/>
-<img src="https://i.imgur.com/6mbYe9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3) How many paintings have an asking price of more than their regular price? <br/>
+<img src="https://i.imgur.com/vTOEIzV.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Hotel Types and Cancellations:  <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+4) Identify the paintings whose asking price is less than 50% of its regular price<br/>
+<img src="https://i.imgur.com/V1zoIuz.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+5) Which canva size costs the most? <br/>
+<img src="https://i.imgur.com/hH7d7IA.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+6) Delete duplicate records from work, product_size, subject and image_link tables <br/>
+<img src="https://i.imgur.com/vTOEIzV.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+7) Identify the museums with invalid city information in the given dataset<br/>
+<img src="https://i.imgur.com/znoqU2w.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+8) Fetch the top 10 most famous painting subject<br/>
+<img src="https://i.imgur.com/JkgDlct.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
+<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
+<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
+<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
+<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
+<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
+<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
+<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
+<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.<br/>
+<img src="https://i.imgur.com/uS9BgOb.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 
 
 
-3) How many paintings have an asking price of more than their regular price? 
 
-4) Identify the paintings whose asking price is less than 50% of its regular price
 
-5) Which canva size costs the most?
 
-6) Delete duplicate records from work, product_size, subject and image_link tables
 
-7) Identify the museums with invalid city information in the given dataset
 
-8) Museum_Hours table has 1 invalid entry. Identify it and remove it.
 
-9) Fetch the top 10 most famous painting subject
 
-10) Identify the museums which are open on both Sunday and Monday. Display museum name, city.
+
+
 
 11) How many museums are open every single day?
 
