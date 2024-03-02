@@ -8,8 +8,8 @@
 <img src="https://i.imgur.com/V1zoIuz.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Market Segments: <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2) Are there museuems without any paintings? <br/>
+<img src="https://i.imgur.com/HLpa98h.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Market Segments: <br/>
@@ -22,7 +22,7 @@ Hotel Types and Cancellations:  <br/>
 <br />
 
 
-2) Are there museuems without any paintings?
+
 
 3) How many paintings have an asking price of more than their regular price? 
 
