@@ -1,4 +1,4 @@
-# Famous-Painting
+<h2>Famous Painting</h2>
 
 <h2>Key Findings</h2>
 
@@ -102,16 +102,3 @@
 
 
 
-12) 
-13)
-
-14) 
-15) 
-16) 
-17) 
-18) 
-
-19)
-20) 
-21) 
-22)
